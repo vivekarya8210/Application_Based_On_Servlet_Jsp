@@ -1,0 +1,18 @@
+
+  
+  
+   <%
+  
+  int a=10;
+  int b=20;
+  %>
+ 
+ 
+ <% if(a>b)
+	     out.println("a is big number"); 
+ else
+	 out.println("b is big number");
+  %>
+ 
+  
+ 
